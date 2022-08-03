@@ -1,3 +1,7 @@
-### Simple app
+### Simple Booking CLI Application
 
-First app with go
+Running app
+
+```
+go run ./main.go
+```
